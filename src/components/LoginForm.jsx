@@ -38,14 +38,9 @@ const LoginForm = (props) => {
           },
           { withCredentials: true }
         );
-        // sessionStorage.clear();
-        // sessionStorage.setItem('token', loginInfo.data.token.token);
-        // sessionStorage.setItem('role', loginInfo.data.token.role);
-
         alert('로그인 되었습니다.');
         close();
       } catch (error) {
-        // setError(error.response.data);
         console.error(error);
       }
     },
