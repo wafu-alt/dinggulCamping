@@ -121,7 +121,7 @@
 
 | [🔗프로토타입(Prototype)](https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Untitled?node-id=0%3A1)
 
-| [🔗유저 시나리오 및 API 명세서]([https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Untitled?node-id=0%3A1](https://docs.google.com/spreadsheets/d/13pvhqBN_bkvmRq11kauwkQNh6CZe7sFExRjGYqvjfT4/edit))
+| [🔗유저 시나리오 및 API 명세서](https://docs.google.com/spreadsheets/d/13pvhqBN_bkvmRq11kauwkQNh6CZe7sFExRjGYqvjfT4/edit#gid=0)
 
 | [🔗API 문서](https://documenter.getpostman.com/view/21028820/UzR1K2iz)
 
