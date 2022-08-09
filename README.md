@@ -125,6 +125,8 @@
 
 | [🔗API 문서](https://documenter.getpostman.com/view/21028820/UzR1K2iz)
 
+| [🔗페이지 구조도](https://github.com/wafu-alt/dinggulCamping/wiki/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%8F%84)
+
 | 🔗서비스 구성도
 <br /><img src="https://i.imgur.com/Td8VjjS.png" alt="서비스 구성도" width="1000px" height="500px">
 
