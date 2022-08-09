@@ -117,7 +117,7 @@
 
 <br/>
 
-| [🔗와이어프레임(Wireframe)](https://kdt-gitlab.elice.io/sw_track/class_02_busan/web_project_2/team3/project-template/-/wikis/Wireframe)
+| [🔗와이어프레임(Wireframe)](https://github.com/wafu-alt/dinggulCamping/wiki/Wireframe)
 
 | [🔗프로토타입(Prototype)](https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Untitled?node-id=0%3A1)
 
