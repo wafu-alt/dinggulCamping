@@ -7,8 +7,9 @@
   엘리스 소프트웨어 트랙 2기 부산 3팀의 두번째 웹 프로젝트 입니다.<br />
   캠핑장에 대한 정보를 확인하고 예약할 수 있는 홈페이지 입니다.<br />
   </div>
+    
   <br />
-  
+  https://dingulcamping.herokuapp.com
 </div>
 <br />
 <br />
@@ -127,7 +128,7 @@
 
 | [🔗페이지 구조도](https://github.com/wafu-alt/dinggulCamping/wiki/%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%8F%84)
 
-| 🔗서비스 구성도
+서비스 구성도
 <br /><img src="https://i.imgur.com/Td8VjjS.png" alt="서비스 구성도" width="1000px" height="500px">
 
 
