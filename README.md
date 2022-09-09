@@ -173,3 +173,12 @@
 |  박우람   |  프론트엔드   | Main, Login  |
 |  김채홍   |  백엔드   |  Backend API  |
 
+
+## 리팩토링
+### 목적 : 반응형웹으로 다이나믹하게 변경
+- 구상도(figma) : https://www.figma.com/file/NstxG3reXALAHqt0wEtrIf/Team3-Pension-reservation?node-id=527%3A2
+- 수정하는 레포지토리 : https://github.com/wafu-alt/reservation-app-code-Modifying
+- 수정하고 반영하는 레포지토리 : https://github.com/jhoon9494/reservation-app/commits/dev
+- 목적  : 각자 맡은 페이지를 웹 크기 600px~768px부터 맞춰서 ui를 조정한다.
+
+
