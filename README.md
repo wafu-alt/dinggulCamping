@@ -9,7 +9,7 @@
   </div>
     
   <br />
-  https://dingulcamping.herokuapp.com
+  http://ec2-52-79-154-49.ap-northeast-2.compute.amazonaws.com/
 </div>
 <br />
 <br />
