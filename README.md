@@ -9,7 +9,7 @@
   </div>
     
   <br />
-  http://ec2-52-79-154-49.ap-northeast-2.compute.amazonaws.com/
+  (배포 수정 중입니다.)
 </div>
 <br />
 <br />
